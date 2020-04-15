@@ -59,3 +59,4 @@ df = pd.DataFrame({"Tarih": date,
                   })
 
 df.to_csv("Tr_data.csv", index=False)
+
