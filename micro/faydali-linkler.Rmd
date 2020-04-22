@@ -1,0 +1,15 @@
+---
+title: "COVID 19 İçin sağlıklı veriye ulaşılabilen siteler"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Sağlık Bakanlığı](https://covid19.saglik.gov.tr)
+
+[John Hopkins Harita](https://coronavirus.jhu.edu/map.html)
+
+[Robert Koch Enstitüsü Tahminleri](http://rocs.hu-berlin.de/corona/docs/forecast/results_by_country/)
+
