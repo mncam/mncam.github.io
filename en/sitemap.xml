@@ -3,52 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mncam.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mncam.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://mncam.github.io/tr/"
+                href="/tr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mncam.github.io/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://mncam.github.io/blog/</loc>
+    <loc>/blog/</loc>
   </url>
   
   <url>
-    <loc>https://mncam.github.io/blog/covid19trgunluk/</loc>
+    <loc>/blog/covid19trgunluk/</loc>
   </url>
   
   <url>
-    <loc>https://mncam.github.io/micro/faydali-linkler/</loc>
+    <loc>/micro/faydali-linkler/</loc>
   </url>
   
   <url>
-    <loc>https://mncam.github.io/micro/</loc>
+    <loc>/micro/</loc>
   </url>
   
   <url>
-    <loc>https://mncam.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="https://mncam.github.io/tr/tags/"
+                href="/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mncam.github.io/tags/"
+                href="/tags/"
                 />
   </url>
   
