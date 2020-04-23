@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Grafikleri görmek için __read more__'a basın.
+Grafikleri görmek için __read more__'a basın. XOX
 
 ---
 
