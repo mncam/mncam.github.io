@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tr/</loc>
+    <loc>https://mncam.github.io/tr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://mncam.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="/tr/"
+                href="https://mncam.github.io/tr/"
                 />
   </url>
   
   <url>
-    <loc>/tr/tags/</loc>
+    <loc>https://mncam.github.io/tr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://mncam.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="/tr/tags/"
+                href="https://mncam.github.io/tr/tags/"
                 />
   </url>
   
